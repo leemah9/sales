@@ -1,0 +1,326 @@
+body {
+    margin: 0;
+    background-color: rgb(211, 232, 238);
+    color: #3e4d63;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.top {
+    width: 100%;
+    height: 430px;
+    margin: 0;
+    background-color: rgb(27, 8, 59);
+  background-image: url("../blender1.jpg");
+  color: white;
+}
+.top1{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(65, 173, 223);
+    background-image: url("../spoon_set1.jpg");
+    margin: 0;
+}
+.top_con {
+  width: 100%;
+  height: 7em;
+  background-color: rgb(218, 132, 33);
+  background-image: url("../wears.jpg");
+  margin: 0;
+}
+h1 {
+  margin-top: 0;
+  padding-top:20px;
+  color: rgb(104, 13, 207);  
+  font-size: 3.5em;
+}
+.h21{
+    color: rgb(243, 82, 82);
+}
+h3{
+  text-align: center;
+  color: #ac0b13;
+}
+.wae{
+  width: 150px;
+  height: auto;
+  border-radius: 30px;
+  right: 0;
+  margin: 40px 0 0 40px;
+}
+.pic1 {
+    width: 250px;
+    height: auto;
+    position: relative;
+    border-radius: 200%;
+    left: 0px;
+    margin: 0;
+}
+.pic2 {
+    width: 100px;
+    height: auto;
+    position: fixed;
+    border-radius: 100%;
+    right: 0;
+    margin: 0;
+}
+.pic3{
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    right: 0;
+    margin: 0;
+}
+.pic4{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    right: 0;
+    margin: 0;
+    float: left;
+    margin-right: 30px;
+}
+.pic5{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    right: 0;
+    margin: 0;
+    float: right;
+    margin-left: 30px;
+}
+.pic6{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    right: 0;
+    margin: 0;
+    float: left;
+    margin-right: 30px;
+}
+.spoon{
+  width: 300px;
+    height: 250px;
+    border-radius: 20%;
+    right: 0;
+    margin: 30px 20px 0px 20px;
+}
+.flask{
+  width: 300px;
+    height: 250px;
+    border-radius: 20%;
+    right: 0;
+    margin: 30px 20px 0px 20px;
+}
+.mc_flask{
+  width: 300px;
+    height: 250px;
+    border-radius: 20%;
+    right: 0;
+    margin: 30px 20px 0px 20px;
+}
+.blender1{
+  width: 300px;
+    height: 250px;
+    border-radius: 20%;
+    right: 0;
+    margin: 30px 20px 0px 20px;
+}
+.oven{
+  width: 300px;
+    height: 250px;
+    border-radius: 20%;
+    right: 0;
+    margin: 30px 20px 0px 20px;
+}
+.slicer{
+  width: 300px;
+    height: 250px;
+    border-radius: 20%;
+    right: 0;
+    margin: 30px 20px 0px 20px;
+}
+
+.skills{
+    width: 50%;
+    margin: 70px auto 70px auto;
+    text-align: justify;
+    line-height: 2;
+}
+.wel{
+    width: 40%;
+    margin: 50px auto;
+    text-align: center;
+    line-height: 2;
+}
+hr{
+    border-style: none;
+    border-width: 5px;
+    border-top-style: dotted;
+    width: 20%;
+    border-color: rgb(223, 55, 139);
+}
+.wears{
+    margin: 100px auto 75px auto;
+}
+.others{
+    margin: 150px auto 150px auto;
+}
+.contact{
+    margin: 150px auto 150px auto;
+}
+.btn {
+    background: #120540;
+    background-image: -webkit-linear-gradient(top, #120540, #7fbde3);
+    background-image: -moz-linear-gradient(top, #120540, #7fbde3);
+    background-image: -ms-linear-gradient(top, #120540, #7fbde3);
+    background-image: -o-linear-gradient(top, #120540, #7fbde3);
+    background-image: linear-gradient(to bottom, #120540, #7fbde3);
+    -webkit-border-radius: 29;
+    -moz-border-radius: 29;
+    border-radius: 29px;
+    text-shadow: 0px 0px 1px #fffcff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fcfdff;
+    font-size: 14px;
+    padding: 10px 20px 10px 20px;
+    border: solid #49176b 2px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #23bd15;
+    background-image: -webkit-linear-gradient(top, #23bd15, #052438);
+    background-image: -moz-linear-gradient(top, #23bd15, #052438);
+    background-image: -ms-linear-gradient(top, #23bd15, #052438);
+    background-image: -o-linear-gradient(top, #23bd15, #052438);
+    background-image: linear-gradient(to bottom, #23bd15, #052438);
+    text-decoration: none;
+  }
+  .btn2 {
+    background: #a3e6db;
+    background-image: -webkit-linear-gradient(top, #a3e6db, #190b33);
+    background-image: -moz-linear-gradient(top, #a3e6db, #190b33);
+    background-image: -ms-linear-gradient(top, #a3e6db, #190b33);
+    background-image: -o-linear-gradient(top, #a3e6db, #190b33);
+    background-image: linear-gradient(to bottom, #a3e6db, #190b33);
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    text-shadow: 0px 0px 1px #eb1527;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fafafa;
+    font-size: 14px;
+    padding: 10px 20px 10px 20px;
+    border: solid #f1d9f2 4px;
+    text-decoration: none;
+  }
+  
+  .btn2:hover {
+    background: #23bd15;
+    background-image: -webkit-linear-gradient(top, #23bd15, #052438);
+    background-image: -moz-linear-gradient(top, #23bd15, #052438);
+    background-image: -ms-linear-gradient(top, #23bd15, #052438);
+    background-image: -o-linear-gradient(top, #23bd15, #052438);
+    background-image: linear-gradient(to bottom, #23bd15, #052438);
+    text-decoration: none;
+  }
+  .btn3 {
+    background: #a3e6db;
+    background-image: -webkit-linear-gradient(top, #a3e6db, #190b33);
+    background-image: -moz-linear-gradient(top, #a3e6db, #190b33);
+    background-image: -ms-linear-gradient(top, #a3e6db, #190b33);
+    background-image: -o-linear-gradient(top, #a3e6db, #190b33);
+    background-image: linear-gradient(to bottom, #a3e6db, #190b33);
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    text-shadow: 0px 0px 1px #eb1527;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fafafa;
+    font-size: 14px;
+    padding: 10px 20px 10px 20px;
+    border: solid #f1d9f2 4px;
+    text-decoration: none;
+  }
+  
+  .btn3:hover {
+    background: #23bd15;
+    background-image: -webkit-linear-gradient(top, #23bd15, #052438);
+    background-image: -moz-linear-gradient(top, #23bd15, #052438);
+    background-image: -ms-linear-gradient(top, #23bd15, #052438);
+    background-image: -o-linear-gradient(top, #23bd15, #052438);
+    background-image: linear-gradient(to bottom, #23bd15, #052438);
+    text-decoration: none;
+  }
+  .btn4 {
+    background: #a3e6db;
+    background-image: -webkit-linear-gradient(top, #a3e6db, #190b33);
+    background-image: -moz-linear-gradient(top, #a3e6db, #190b33);
+    background-image: -ms-linear-gradient(top, #a3e6db, #190b33);
+    background-image: -o-linear-gradient(top, #a3e6db, #190b33);
+    background-image: linear-gradient(to bottom, #a3e6db, #190b33);
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    text-shadow: 0px 0px 1px #eb1527;
+    font-family: Georgia;
+    color: #fafafa;
+    font-size: 14px;
+    padding: 10px 20px 10px 20px;
+    border: solid #f1d9f2 4px;
+    text-decoration: none;
+  }
+  
+  .btn4:hover {
+    background: #23bd15;
+    background-image: -webkit-linear-gradient(top, #23bd15, #052438);
+    background-image: -moz-linear-gradient(top, #23bd15, #052438);
+    background-image: -ms-linear-gradient(top, #23bd15, #052438);
+    background-image: -o-linear-gradient(top, #23bd15, #052438);
+    background-image: linear-gradient(to bottom, #23bd15, #052438);
+    text-decoration: none;
+  }
+  .bottom-container{
+    background-color: rgb(65, 173, 223);
+    height: 80px;
+    margin: 20px 0 0;
+    padding: 25px 0;
+  }
+  .copy-right{
+    color: white;
+    font-size: 0.75em;
+    margin: 30px 0 0;
+    padding: 25px 0;
+  }
+  .botttom_con{
+      color: white;
+      margin: 30px 0 0;
+      padding: 25px 0;
+  }
+  .mid_con{
+    text-align: center;
+    margin-left: 120px;
+  }
+.clo{
+  height: 300px;
+  width: 300px;
+ border-radius: 50px; 
+ margin: 50px 30px 5px ;
+ text-align: center;
+}
+.top_other{
+  width: 100%;
+  height: 130px;
+  background-color: #7fbde3;
+  color: #eb1527;
+  background-image: url("../other2.jpg");
+  padding-top:20px;
+}
+.oth{
+width: 130px;
+height: 130px;
+border-radius:20px;
+float: left;
+}
